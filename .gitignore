@@ -13,3 +13,13 @@ pnpm-debug.log*
 /.fleet
 /.idea
 /.vscode
+
+# === Frontend (CRA/Vite/Next/etc.) ===
+client/node_modules/
+client/dist/
+client/build/
+logs
+*.log
+
+# ==== REACT / CLIENT ===
+client/node_modules
